@@ -1,0 +1,15 @@
+C:\Users\ufukd\Desktop\BaseAppProject\App.Project\src\Core\AppProject.Application\bin\Debug\net5.0\AppProject.Application.deps.json
+C:\Users\ufukd\Desktop\BaseAppProject\App.Project\src\Core\AppProject.Application\bin\Debug\net5.0\AppProject.Application.dll
+C:\Users\ufukd\Desktop\BaseAppProject\App.Project\src\Core\AppProject.Application\bin\Debug\net5.0\ref\AppProject.Application.dll
+C:\Users\ufukd\Desktop\BaseAppProject\App.Project\src\Core\AppProject.Application\bin\Debug\net5.0\AppProject.Application.pdb
+C:\Users\ufukd\Desktop\BaseAppProject\App.Project\src\Core\AppProject.Application\bin\Debug\net5.0\AppProject.Domain.dll
+C:\Users\ufukd\Desktop\BaseAppProject\App.Project\src\Core\AppProject.Application\bin\Debug\net5.0\AppProject.Domain.pdb
+C:\Users\ufukd\Desktop\BaseAppProject\App.Project\src\Core\AppProject.Application\obj\Debug\net5.0\AppProject.Application.csproj.AssemblyReference.cache
+C:\Users\ufukd\Desktop\BaseAppProject\App.Project\src\Core\AppProject.Application\obj\Debug\net5.0\AppProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufukd\Desktop\BaseAppProject\App.Project\src\Core\AppProject.Application\obj\Debug\net5.0\AppProject.Application.AssemblyInfoInputs.cache
+C:\Users\ufukd\Desktop\BaseAppProject\App.Project\src\Core\AppProject.Application\obj\Debug\net5.0\AppProject.Application.AssemblyInfo.cs
+C:\Users\ufukd\Desktop\BaseAppProject\App.Project\src\Core\AppProject.Application\obj\Debug\net5.0\AppProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\ufukd\Desktop\BaseAppProject\App.Project\src\Core\AppProject.Application\obj\Debug\net5.0\AppProject.Application.csproj.CopyComplete
+C:\Users\ufukd\Desktop\BaseAppProject\App.Project\src\Core\AppProject.Application\obj\Debug\net5.0\AppProject.Application.dll
+C:\Users\ufukd\Desktop\BaseAppProject\App.Project\src\Core\AppProject.Application\obj\Debug\net5.0\ref\AppProject.Application.dll
+C:\Users\ufukd\Desktop\BaseAppProject\App.Project\src\Core\AppProject.Application\obj\Debug\net5.0\AppProject.Application.pdb

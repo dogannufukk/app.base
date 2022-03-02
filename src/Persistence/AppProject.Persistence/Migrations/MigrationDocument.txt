@@ -1,0 +1,14 @@
+﻿# Bilgi: Db Connection bilgisi WebApi projesinde ""appsettings.json" içerisinde yer almaktadır.
+# Öneri: Eğer FirstInit migration'ı projede var ise sadece "update-database" komutunu çalıştırmanız yeterli olacaktır.
+########################################################################################
+# Migration Adımları: 
+1- Db'de yaptığınız değişiklikler sonrası migration alırken aşağıdaki komutlar çalıştırılmalıdır.
+
+Örnek yapı:
+	# Add-Migration "(Mig. adı)" -OutputDir "(MigKonumu)" -Context "(DbContext Nesnesi)"
+Örnek kullanım:
+	# Add-Migration "FirstInit" -OutputDir "Migrations/MsSqlDbMigration" -Context "MsSqlDbContext"
+
+2- ""Update-Database"" komutu ile de alınan migration'ların Db'ye aktarımı tamamlanır.
+
+
